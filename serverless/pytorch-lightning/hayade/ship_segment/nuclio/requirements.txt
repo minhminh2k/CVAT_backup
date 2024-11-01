@@ -1,0 +1,8 @@
+pytorch-lightning
+torchmetrics
+
+numpy
+opencv-python
+albumentations
+
+omegaconf
